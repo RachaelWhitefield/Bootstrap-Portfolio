@@ -14,8 +14,26 @@ body {
 img {
     height: 300px;
     width: 300px;
+    margin: 10px 0px 50px 0px;
+}
+.col-md-4 {
+    position: relative;
+    margin: 20px;
 }
 
+h5 {
+    position: absolute;
+    background: #ffffff;
+    bottom: 60px;
+    width: 300px;
+    padding: 15px;
+    text-align: center;
+}
+#headshot {
+    height: 300px;
+    width: 300px;
+    padding: 0px;
+}
 .footer {
     background-color: gray;
     padding-top: 50px;
