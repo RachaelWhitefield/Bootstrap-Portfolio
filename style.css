@@ -82,12 +82,6 @@ h2 {
     margin: 0px 15px 50px 15px;
 }
 
-.jumbotron {
-    background-color: lightpink;
-    padding: 60px 0 0 0;
-    margin-bottom: 0px;
-
-}
 
 .footer {
     background-color: #ffffff;
@@ -98,5 +92,6 @@ h2 {
 }
 
 p {
-    margin-left; 10px
+    margin-left: 10px;
 }
+
