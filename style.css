@@ -1,6 +1,7 @@
 body {
     background-image: url(pink_rice.png);
     position: relative;
+    font-family: Arial, Helvetica, Lucida, sans-serif;
 }
 
 .navbar {
@@ -18,7 +19,8 @@ body {
     width: 225px;
     height: 98px;
     text-align: center;
-    margin-left: 200px; 
+    margin-left: 200px;
+
 }
 
 .container {
@@ -28,7 +30,7 @@ body {
 }
 
 .row {
-    padding-bottom: 15px;
+    padding-bottom: 40px;
 }
 
 .index-container {
@@ -38,6 +40,7 @@ body {
 h1 {
     margin-left: 100px;
     padding-top: 50px;
+    font-size: 56px;
 }
 
 /* portfolio pics */
